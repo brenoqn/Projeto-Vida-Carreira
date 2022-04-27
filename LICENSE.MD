@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) [2022] [BrenoQN,Math5il]
+Copyright (c) [2022] [BrenoQN,Math5il,dev-pedrohenrique,thiago-paradizi,luizhenriquevaz,thalecrim,Thiago777bh,marsauxo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
