@@ -1,4 +1,4 @@
-# Título do Projeto
+# O Poder da Interação Social
 
 
 ![Capa do Projeto](https://img.freepik.com/vetores-gratis/pessoas-de-ilustracao-de-psicoterapia-de-grupo-na-reuniao-de-psicologia-personagens-de-homens-e-mulheres-conversando-com-psicologo-familiar_575670-385.jpg)
