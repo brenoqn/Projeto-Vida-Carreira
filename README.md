@@ -43,7 +43,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+<td align="center"><a href="https://github.com/Math5il"><img src="" width="100px;" alt=""/><br /><sub><b>Matheus Santos</b></sub></a><br /><a href="" title="Code">📖</a></td>
 
 # Licença
 
