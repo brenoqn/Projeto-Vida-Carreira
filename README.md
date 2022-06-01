@@ -1,7 +1,7 @@
 # Título do Projeto
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]([https://picsum.photos/850/280](https://br.freepik.com/vetores-premium/pessoas-de-ilustracao-de-psicoterapia-de-grupo-na-reuniao-de-psicologia-personagens-de-homens-e-mulheres-conversando-com-psicologo-familiar_23591674.htm))
 
 # Sobre o Projeto
 
