@@ -43,7 +43,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-<td align="center"><a href="https://github.com/Math5il"><img src="https://web.whatsapp.com/709ae405-90be-4476-b126-766d2077231c" width="100px;" alt=""/><br /><sub><b>Matheus Santos</b></sub></a><br /><a href="" title="Code">📖</a></td>
+<td align="center"><a href="https://github.com/Math5il"><img src="" width="100px;" alt=""/><br /><sub><b>Matheus Santos</b></sub></a><br /><a href="" title="Code">📖</a></td>
+<td align="center"><a href="https://github.com/brenoqn"><img src="" width="100px;" alt=""/><br /><sub><b>Matheus Santos</b></sub></a><br /><a href="" title="Criativo">📖</a></td>
 
 # Licença
 
