@@ -5,11 +5,8 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Temos como objetivo a melhora do ano dos alunos onde os problemas sociais e emocionais trazem desconforto de uma forma onde pode compartilhar esses problemas e a ajuda-los a superar os mesmos.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
