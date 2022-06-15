@@ -22,20 +22,23 @@ Temos como objetivo a melhora do ano dos alunos onde os problemas sociais e emoc
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
+- [x] **Inscrever Estudantes interessados**
+- [x] **Contratar profissionais da área**
+- [ ] Cancelar Inscrição
+- [ ] Verificar Progresso
 - [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+Pode acontecer em meios digitais. Exemplos:
+Meet;
+Zoom;
+Skype;
+ou qualquer outro app de chamada de vídeo.
+
+Ou utilizando meios fisicos. Exemplos: 
+Sala de Aula;
+Ou ongs feitas para esse proposito.
 
 # Contribuição
 
@@ -52,4 +55,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Quero agradecer primeiramente a todos que nós ajudaram a formar essa ideia e responder nossas perguntas para observar se isso daria certo, agradecer também ao nosso professor Diego Augusto por nos dar um exemplo de quais caminhos seguir e nos ajudar a ter um pensamento melhor de como poderiamos concluir isso, agradecemos também a todas as pessoas que nos ajudaram a testar e verificar a eficacia de nossa solução. Ao fim de tudo obrigado a todos que estão lendo este texto.
